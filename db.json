@@ -9,3 +9,11 @@
     "name": "typicode"
   }
 }
+
+{
+  "user_info":{
+    "email":"example@example.com",
+    "name":"nakamura",
+    "password":"password"
+  }
+}
