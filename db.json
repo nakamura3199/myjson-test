@@ -1,5 +1,11 @@
 {
-"name":"nakamura",
-"email":"example@example.com",
-"address":"japan"
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
