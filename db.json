@@ -5,11 +5,9 @@
       "title": "hello"
     }
   ],
-  "login": [
+  "login": 
     {
     "status": "ok",
-    "loginID":"example@example.com"
     }
-  ]
 }
 
