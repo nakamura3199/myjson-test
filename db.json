@@ -5,4 +5,8 @@
     "name": "nakamura",
     "password": "password"
   }
+  "login": {
+    "status":"ok",
+    "login_id": "example@example.com"
+  }
 }
