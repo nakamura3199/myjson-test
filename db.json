@@ -5,7 +5,7 @@
       "title": "hello"
     }
   ],
-  "user/login":{
+  "user_login":{
     "status": "ok",
     "loginid": "example@example.com"
    }
