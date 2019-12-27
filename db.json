@@ -5,9 +5,15 @@
       "title": "hello"
     }
   ],
-  "user_login":{
-    "status": "ok",
-    "loginid": "example@example.com"
+  "login_ok":{
+    "status": "OK",
+    "message": "login success"
+    "customerId": "123456789"
+   },
+  "login_error":{
+    "status": "ERROR",
+    "message": "Incorrect username or password entered"
+    "customerId": null
    }
 }
 
