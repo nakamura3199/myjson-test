@@ -1,14 +1,16 @@
 {  
-  "login_ok":
+  "login":[
    {
+    "id": "ok@example.com",
     "status": "OK",
     "message": "login success",
     "customerId": "123456789"
    },
-  "login_error":
    {
+    "id": "error@example.com",
     "status": "ERROR",
     "message": "Incorrect username or password entered",
     "customerId": null
    }
+  ]
 }
