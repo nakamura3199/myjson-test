@@ -7,12 +7,12 @@
   ],
   "login_ok":{
     "status": "OK",
-    "message": "login success"
+    "message": "login success",
     "customerId": "123456789"
    },
   "login_error":{
     "status": "ERROR",
-    "message": "Incorrect username or password entered"
+    "message": "Incorrect username or password entered",
     "customerId": null
    }
 }
