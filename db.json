@@ -1,5 +1,5 @@
 {  
-  "login:{
+  "login:[
    {
     "id": "ok@example.com",
     "status": "OK",
@@ -12,4 +12,5 @@
     "message": "Incorrect username or password entered",
     "customerId": null
    }
+  ]
 }
