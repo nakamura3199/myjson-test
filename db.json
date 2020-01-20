@@ -12,5 +12,42 @@
     "message": "Incorrect username or password entered",
     "customerId": null
    }
+  ],
+  "password_reset": [
+    {
+      "id": "optage_api_123456789",
+      "email": "ok@example.com",
+      "status": "OK",
+      "message": "password_reset success"
+    },
+    {
+      "id": "Admin",
+      "email": "Admin@example.com",
+      "status": "ERROR",
+      "message": "Incorrect username or password entered"
+    }
+  ],
+  "custom": [
+    {
+      "id": "optage_api_123456789",
+      "email": "ok@example.com",
+      "status": "active",
+      "permissions": "User",
+      "update_date": "2020/01/20"
+    },
+    {
+      "id": "optage_api_2",
+      "email": "error@example.com",
+      "status": "blocked",
+      "permissions": "User",
+      "update_date": "2019/12/20"
+    },
+    {
+      "id": "Admin",
+      "email": "Admin@example.com",
+      "status": "active",
+      "permissions": "Admin",
+      "update_date": "2020/01/20"
+    }
   ]
 }
