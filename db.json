@@ -13,12 +13,12 @@
     "customerId": null
    }
   ],
-  "password_reset": [
+  "password-reset": [
     {
       "id": "optage_api_123456789",
       "email": "ok@example.com",
       "status": "OK",
-      "message": "password_reset success"
+      "message": "The password has been reset successfully"
     },
     {
       "id": "Admin",
