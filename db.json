@@ -13,7 +13,7 @@
     "customerId": null
    }
   ],
-  "password-reset": [
+  "password": [
     {
       "id": "optage_api_123456789",
       "email": "ok@example.com",
@@ -27,27 +27,56 @@
       "message": "Incorrect username or password entered"
     }
   ],
-  "custom": [
+  "users": [
     {
       "id": "optage_api_123456789",
+      "loginNgFlg": "on",
+      "firstName": "tarou",
+      "lastName": "tanaka",
+      "firstNameKana": "タロウ",
+      "lastNameKana": "タナカ",
+      "nickname": "tarou",
+      "zip": "000-0000",
+      "address1": "大阪市北区１丁目",
+      "address2": "１番１号",
+      "address3": "111ビルディング",
+      "address4": "111号室",
+      "tel": "03-xxxx-xxxx",
+      "mobileTel": "080-xxxx-xxxx",
+      "fax": "03-xxxx-xxxx",
+      "birthday": "19000101",
+      "sex": "男性",
+      "shippingAddressNo": "12345678901",
       "email": "ok@example.com",
-      "status": "active",
-      "permissions": "User",
-      "update_date": "2020/01/20"
-    },
-    {
-      "id": "optage_api_2",
-      "email": "error@example.com",
-      "status": "blocked",
-      "permissions": "User",
-      "update_date": "2019/12/20"
+      "mobileEmail": "okMobile@example.com",
+      "occupation": "会社員",
+      "optin": "講読済",
+      "note": "メモ"
     },
     {
       "id": "Admin",
+      "loginNgFlg": "on",
+      "firstName": "Admin",
+      "lastName": "Admin",
+      "firstNameKana": "アドミン",
+      "lastNameKana": "アドミン",
+      "nickname": "Admin",
+      "zip": "000-0000",
+      "address1": "東京都北区１丁目",
+      "address2": "１番１号",
+      "address3": "111ビルディング",
+      "address4": "111号室",
+      "tel": "03-xxxx-xxxx",
+      "mobileTel": "080-xxxx-xxxx",
+      "fax": "03-xxxx-xxxx",
+      "birthday": "19000101",
+      "sex": "女性",
+      "shippingAddressNo": "12345678902",
       "email": "Admin@example.com",
-      "status": "active",
-      "permissions": "Admin",
-      "update_date": "2020/01/20"
+      "mobileEmail": "AdminMobile@example.com",
+      "occupation": "会社員",
+      "optin": "講読済",
+      "note": "メモ"
     }
   ]
 }
