@@ -79,4 +79,18 @@
       "note": "メモ"
     }
   ]
+  "items": [
+    {
+      "itemCode": "item00001",
+      "itemName": "フラットシューズ",
+      "sellingPrice": "12000",
+      "maxBuyLimit": "10",
+    },
+    {
+      "itemCode": "item00002",
+      "itemName": "ケーブル編みマフラー",
+      "sellingPrice": "3800",
+      "maxBuyLimit": "25",
+    }
+  ]
 }
