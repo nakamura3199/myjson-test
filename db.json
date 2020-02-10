@@ -97,22 +97,26 @@
   ],
   "order":[
    {
-    "orderNo": "order00001",
+    "id": "order00001",
     "status": "OK",
+    "message": "Order OK"
    },
    {
-    "orderNo": "order00002",
+    "id": "order00002",
     "status": "ERROR",
+    "message": "Order Error"
    }
   ],
   "stock":[
    {
-    "itemId": "item00001",
+    "id": "item00001",
     "status": "15",
+    "warehouse": "Osaka"
    },
    {
-    "itemId": "item00002",
+    "id": "item00002",
     "quantity": "0",
+    "warehouse": "None"
    }
   ]
 }
