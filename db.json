@@ -106,17 +106,5 @@
     "status": "ERROR",
     "message": "Order Error"
    }
-  ],
-  "stock":[
-   {
-    "id": "item00001",
-    "status": "15",
-    "warehouse": "Osaka"
-   },
-   {
-    "id": "item00002",
-    "quantity": "0",
-    "warehouse": "None"
-   }
   ]
 }
