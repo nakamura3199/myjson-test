@@ -1,4 +1,4 @@
-{  
+{
   "login":[
    {
     "id": "ok@example.com",
@@ -94,5 +94,25 @@
       "maxBuyLimit": "25",
       "shippingFee": "100"
     }
+  ],
+  "order":[
+   {
+    "orderNo": "order00001",
+    "status": "OK",
+   },
+   {
+    "orderNo": "order00002",
+    "status": "ERROR",
+   }
+  ],
+  "stock":[
+   {
+    "itemId": "item00001",
+    "status": "15",
+   },
+   {
+    "itemId": "item00002",
+    "quantity": "0",
+   }
   ]
 }
