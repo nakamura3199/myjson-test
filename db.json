@@ -153,20 +153,6 @@
         },
         {
           "sku": "00002002",
-          "colorName": "ベージュ",
-          "colorCode": "beige",
-          "sizeName": "ONE",
-          "sizeCode": "ONE"
-        },
-        {
-          "sku": "00002003",
-          "colorName": "ブラック",
-          "colorCode": "black",
-          "sizeName": "ONE",
-          "sizeCode": "ONE"
-        },
-        {
-          "sku": "00002004",
           "colorName": "ブラック",
           "colorCode": "black",
           "sizeName": "ONE",
