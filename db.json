@@ -382,19 +382,5 @@
         }
       ]
     }
-  ],
-  "order":[
-   {
-    "id": "order00001",
-    "order_id": "00000001",
-    "status": "OK",
-    "message": "Order OK"
-   },
-   {
-    "id": "order00002",
-    "order_id": "00000002",
-    "status": "ERROR",
-    "message": "Order Error"
-   }
   ]
 }
